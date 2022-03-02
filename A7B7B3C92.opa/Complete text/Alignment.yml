@@ -1,0 +1,28 @@
+segment_sources:
+  P872F20DD:
+    type: origin_type
+    relation: translation
+    language: ug
+  P997B477B:
+    type: origin_type
+    relation: translation
+    language: ug
+  PF222ABD1:
+    type: origin_type
+    relation: translation
+    language: zh
+  P01AE290F:
+    type: origin_type
+    relation: translation
+    language: fr
+segment_pairs:
+  a9ca5aa1a0b94774bc3dd50b330aca0f:
+    P872F20DD: 1e4a8351b8914aeb81f16a82c7010f20
+    P997B477B: 5220b92f0b0a4d199bcc95d823027b1e
+    PF222ABD1: 8fa2a975b17e4047b46a6ce578c61535
+    P01AE290F: 0db71c1dce1f4084be28abb56691f57d
+  2b25a39b23834e03bdd00726d5d8ad56:
+    P872F20DD: cccea1490ae541349da67ea17aa04970
+    P997B477B: e89cf434ee6848c0a6eb01b69704e8a0
+    PF222ABD1: dcdda0fb678b4430af239bd51359d788
+    P01AE290F: f108dfcb9e4248f29c3ef9c232902941
